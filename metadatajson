@@ -1,0 +1,7 @@
+{
+  "name": "Nama NFT",
+  "symbol": "NFTSYMBOL",
+  "uri": "URL_GAMBAR",
+  "seller_fee_basis_points": 500,
+  "creators": null
+}
